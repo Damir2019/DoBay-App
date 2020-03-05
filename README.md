@@ -4,6 +4,7 @@ To do list mini project written with Objective-C
 <img src=screenShots/main.png width=200> <img src=screenShots/edit.png width=200> <img src=screenShots/add.png width=200> <img src=screenShots/elete.png width=200>
 
 Explain:
+
 To understant the basics of Objectiv-C language i created a simple application of todo list items.
 
 The application has basic UI UX elements.
